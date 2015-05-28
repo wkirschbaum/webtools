@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/wkirschbaum/linestripper",
+	"ImportPath": "github.com/wkirschbaum/webtools",
 	"GoVersion": "go1.4.2",
 	"Deps": []
 }
